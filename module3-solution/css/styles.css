@@ -1,0 +1,23 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: lightgrey;
+  border-radius: 0;
+  border: 1;
+}
+
+ul li a {
+	text-align: center;
+}
+/* END HEADER */
+
+.menu-item {
+  height: 1500px;
+  background-color: lightblue;
+  margin: 10px 0px 10px 0px;
+}
